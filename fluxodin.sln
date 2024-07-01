@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluxodin.Api", "fluxodin.Api\fluxodin.Api.csproj", "{196D0A10-E2D3-47C1-AD07-2F93C4C038DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluxodin.Core", "fluxodin.Core\fluxodin.Core.csproj", "{3FB6186D-EDB0-4FA2-94F1-38B895E5F007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluxodin.Web", "fluxodin.Web\fluxodin.Web.csproj", "{23C6C960-583E-483D-A4D9-B861A791A32B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{196D0A10-E2D3-47C1-AD07-2F93C4C038DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196D0A10-E2D3-47C1-AD07-2F93C4C038DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196D0A10-E2D3-47C1-AD07-2F93C4C038DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196D0A10-E2D3-47C1-AD07-2F93C4C038DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB6186D-EDB0-4FA2-94F1-38B895E5F007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB6186D-EDB0-4FA2-94F1-38B895E5F007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB6186D-EDB0-4FA2-94F1-38B895E5F007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB6186D-EDB0-4FA2-94F1-38B895E5F007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C6C960-583E-483D-A4D9-B861A791A32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C6C960-583E-483D-A4D9-B861A791A32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C6C960-583E-483D-A4D9-B861A791A32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C6C960-583E-483D-A4D9-B861A791A32B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
